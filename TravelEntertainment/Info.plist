@@ -41,5 +41,29 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Show your location on the map</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Show your location on the map</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+        <key>NSExceptionDomains</key>
+        <dict>
+            <key>yourdomain.com</key>
+            <dict>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+                <key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
+                <false/>
+            </dict>
+        </dict>
+    </dict>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>googlechromes</string>
+        <string>comgooglemaps</string>
+    </array>
 </dict>
 </plist>
