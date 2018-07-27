@@ -1,0 +1,6 @@
+module Pods_TravelEntertainment [system] {
+  umbrella header "Pods-TravelEntertainment-umbrella.h"
+
+  export *
+  module * { export * }
+}
