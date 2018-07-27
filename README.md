@@ -7,8 +7,8 @@
  Third-party libraries by CocoaPods are also being used.
 
 
-| ![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Search.png)  | ![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/SearchResults.png) |
-| ![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Favorites.png)  | ![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/GoogleMaps.png) |
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Search-Results.png) 
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Favorite-Maps.png) 
 
 Note: You need to generate your own api keys and add to the `AppDelegate`.
 
