@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelEntertainment/master/WebsiteImages/StoryBoard.png)
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/StoryBoard.png)
 
 # TravelApp
  Travel App lets you search for places in or around a place. The search could be generic or specific to a category. The app then gets you all the relevant data for the place from Google place APIs. 
@@ -6,10 +6,10 @@
                       
  Third-party libraries by CocoaPods are also being used.
 
-![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelEntertainment/master/WebsiteImages/Search.png)
-![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelEntertainment/master/WebsiteImages/SearchResults.png)
-![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelEntertainment/master/WebsiteImages/Favorites.png)
-![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelEntertainment/master/WebsiteImages/GoogleMaps.png)
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Search.png)
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/SearchResults.png)
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/Favorites.png)
+![alt text](https://raw.githubusercontent.com/DivyaGodayal/TravelApp/master/WebsiteImages/GoogleMaps.png)
 
 Note: You need to generate your own api keys and add to the `AppDelegate`.
 
